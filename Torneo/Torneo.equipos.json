@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "673a35ec9376a467d18514f5"
+  },
+  "nombre_equipo": "The Fruppy",
+  "capitan": {
+    "$oid": "673a34d69376a467d18514f4"
+  },
+  "jugadores": [
+    {
+      "$oid": "673a34d69376a467d18514f4"
+    }
+  ],
+  "puntos": 0,
+  "diferencia_goles": 0
+},
+{
+  "_id": {
+    "$oid": "673a38af9376a467d18514f6"
+  },
+  "nombre_equipo": "Club Catalan",
+  "capitan": {
+    "$oid": "673a374a25e7423eb286ecbf"
+  },
+  "jugadores": [
+    {
+      "$oid": "673a374a25e7423eb286ecbf"
+    }
+  ],
+  "puntos": 0,
+  "diferencia_goles": 0
+}]

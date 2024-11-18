@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "673a34d69376a467d18514f4"
+  },
+  "nombre": "Luis Martinez",
+  "edad": 26,
+  "equipo_id": "The Fruppy",
+  "deportista_id": 23025565,
+  "tarjetas_amarillas": 1,
+  "rol": "jugador",
+  "goles": 0,
+  "tarjetas_rojas": 0
+},
+{
+  "_id": {
+    "$oid": "673a374a25e7423eb286ecbf"
+  },
+  "nombre": "Cristia Perez",
+  "edad": 25,
+  "equipo_id": "Club Catalan",
+  "rol": "Capitan",
+  "deportista_id": 1047833043,
+  "tarjetas_amarillas": 0,
+  "tarjetas_rojas": 1,
+  "goles": 0
+}]

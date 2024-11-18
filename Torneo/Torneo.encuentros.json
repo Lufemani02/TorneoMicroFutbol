@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "673a3bf4f1967ec72195b432"
+  },
+  "equipo_local": {
+    "$oid": "673a35ec9376a467d18514f5"
+  },
+  "equipo_visitante": {
+    "$oid": "673a38af9376a467d18514f6"
+  },
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "victoria",
+  "fecha_hora": "18:00:00",
+  "tiempo_extra": false,
+  "penales": {
+    "equipo_local": 0,
+    "equipo_visitante": 0
+  },
+  "arbitro_id": {
+    "$oid": "773a35ec9376a467d18514f5"
+  }
+}]

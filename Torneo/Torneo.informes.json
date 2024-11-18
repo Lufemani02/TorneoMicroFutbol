@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "673a3fc55e64143e8c7bfeef"
+  },
+  "encuentro_id": {
+    "$oid": "673a3bf4f1967ec72195b432"
+  },
+  "informes_arbitro": {
+    "tarjetas_amarillas": {
+      "luis_martinez": 1
+    },
+    "tarjetas_rojas": {
+      "cristia_perez": 1
+    },
+    "incidentes": "Lesión en el minuto 30"
+  },
+  "jugadores_destacados": [
+    {
+      "jugador_id": {
+        "$oid": "673a34d69376a467d18514f4"
+      },
+      "goles": 2
+    }
+  ]
+}]
